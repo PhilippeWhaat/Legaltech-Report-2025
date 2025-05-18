@@ -33,6 +33,7 @@ Basado en los resultados de la prueba piloto y los análisis estadísticos, se h
 Una vez ajustado el cuestionario, se aplicará a una muestra representativa de despachos legales y departamentos jurídicos de empresas en América Latina. Se incluirán preguntas demográficas para permitir análisis comparativos entre diferentes regiones, sectores legales y tamaños de organización.
 ## <a name="_heading=h.2s8eyo1"></a>I. Análisis de los Resultados
 Los resultados obtenidos se analizarán cuantitativamente para obtener una radiografía precisa de la adopción tecnológica en el sector legal de Latinoamérica. Las comparaciones demográficas permitirán identificar patrones de adopción según el tamaño de la organización, el sector y la región geográfica.
+Los datos serán tratados únicamente como cohortes estadísticas y anonimizados rigurosamente antes del análisis. Se emplearán técnicas avanzadas de privacidad diferencial para garantizar que ninguna organización sea identificable.
 ## <a name="_heading=h.17dp8vu"></a>J. Conclusiones y Proyecciones
 El estudio culminará con un análisis proyectivo de las tendencias en inversión tecnológica y las necesidades de formación en el sector legal. También se elaborará una narrativa comparativa basada en los diferentes perfiles demográficos de los participantes para detectar brechas y oportunidades de mejora en la adopción de IA y tecnología en la región.
 
